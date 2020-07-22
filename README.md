@@ -1,3 +1,3 @@
-# flutter_login
+# Bulgarian Cuisine
 
-Flutter project for Moble Applications discipling.
+Simple Flutter app for bulgarian cooking recipes
